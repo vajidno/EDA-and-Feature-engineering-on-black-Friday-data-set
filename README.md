@@ -9,14 +9,14 @@ I acquired a comprehensive Black Friday dataset from Kaggle, offering intricate 
 
 <br>Key Features:
 <br>Product_ID: Identifier for the purchased product.
-Gender: Gender of the individual making the purchase.
-Age: Age group of the consumer.
-Occupation: Numeric code representing the occupation of the buyer.
-City_Category: Category of the city where the consumer resides.
-Stay_In_Current_City_Years: Duration of stay in the current city.
-Marital_Status: Marital status of the buyer (1 for married, 0 for unmarried).
-Product_Category_1, Product_Category_2, Product_Category_3: Categories of the purchased products.
-Purchase: The purchase amount made by the individual.
+<br>Gender: Gender of the individual making the purchase.
+<br>Age: Age group of the consumer.
+<br>Occupation: Numeric code representing the occupation of the buyer.
+<br>City_Category: Category of the city where the consumer resides.
+<br>Stay_In_Current_City_Years: Duration of stay in the current city.
+<br>Marital_Status: Marital status of the buyer (1 for married, 0 for unmarried).
+<br>Product_Category_1, Product_Category_2, Product_Category_3: Categories of the purchased products.
+<br>Purchase: The purchase amount made by the individual.
 
 
 
