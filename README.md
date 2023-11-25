@@ -17,6 +17,9 @@ I acquired a comprehensive Black Friday dataset from Kaggle, offering intricate 
 <br>Marital_Status: Marital status of the buyer (1 for married, 0 for unmarried).
 <br>Product_Category_1, Product_Category_2, Product_Category_3: Categories of the purchased products.
 <br>Purchase: The purchase amount made by the individual.
+<br> * Total number of rows in data: 783667
+<br> * Total number of columns: 12
+
 
 
 
