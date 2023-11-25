@@ -7,8 +7,8 @@ Now, they want to build a model to predict the purchase amount of customer again
 ### Dataset
 I acquired a comprehensive Black Friday dataset from Kaggle, offering intricate insights into individuals and their purchasing behavior, particularly focusing on the purchase amount. The dataset is thoughtfully organized into both test and train data, and I seamlessly merged them to consolidate the available information.
 
-Key Features:
-Product_ID: Identifier for the purchased product.
+<br>Key Features:
+<br>Product_ID: Identifier for the purchased product.
 Gender: Gender of the individual making the purchase.
 Age: Age group of the consumer.
 Occupation: Numeric code representing the occupation of the buyer.
