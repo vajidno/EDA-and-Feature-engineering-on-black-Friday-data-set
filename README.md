@@ -23,8 +23,25 @@ I acquired a comprehensive Black Friday dataset from Kaggle, offering intricate 
 ### Data Cleaning and Feature Engineering
 *1)Handling null values*
 <br>* Null values in columns Product_Category_2 and Product_Category_3 were replaced by mode.
-*2)Converting columns to appropriate data types*
+<br>*2)Converting columns to appropriate data types*
 <br> * Changed data type of Stay_In_Current_City_Years to int type.
+<br>*3)Handling Categorical Value*
+<br>* In the "Gender" column, I've encoded the values, representing "Male" as 1 and "Female" as 0 for the sake of numerical 
+      representation in the dataset.
+ <br>* In the "Age" column, I've transformed the age groups into numerical representations for analytical convenience. The 
+       mapping is as follows: '0-17' corresponds to 1, '18-25' to 2, '26-35' to 3, '36-45' to 4, '46-50' to 5, '51-55' to 6, 
+       and '55+' to 7.
+
+
+
+
+
+     
+
+
+
+
+
 
 
 
