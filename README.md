@@ -23,7 +23,7 @@ I acquired a comprehensive Black Friday dataset from Kaggle, offering intricate 
 ### Data Cleaning and Feature Engineering
 *1)Handling null values*
 <br>* Null values in columns Product_Category_2 and Product_Category_3 were replaced by mode.
-#### 2)Converting columns to appropriate data types
+*2)Converting columns to appropriate data types*
 <br> * Changed data type of Stay_In_Current_City_Years to int type.
 
 
